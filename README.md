@@ -11,7 +11,7 @@ The goal of this project is to quantify and analyze, which NYC public schools ne
 
 - However, there is fewer students from underrepresented groups.
 
-- Recently Mayor De Blasio has proposed [several changes](https://www.nytimes.com/2018/06/02/nyregion/de-blasio-new-york-schools.html) in the admission process that would "reflect the city better" and increase diversity.
+- In 2018 Mayor De Blasio proposed [several changes](https://www.nytimes.com/2018/06/02/nyregion/de-blasio-new-york-schools.html) in the admission process that would "reflect the city better" and increase diversity.
 
 ## Files
 
